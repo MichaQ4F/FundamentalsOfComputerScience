@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.计算机组成原理上：自己动手编写CPU/1.1 计算机系统概述.md",
+                "file": "1.计算机组成原理上：自己动手编写CPU/1.2 数据的机器级表示.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.计算机组成原理上：自己动手编写CPU/1.1 计算机系统概述.md",
+                "file": "1.计算机组成原理上：自己动手编写CPU/1.2 数据的机器级表示.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.计算机组成原理上：自己动手编写CPU/1.1 计算机系统概述.md",
+                "file": "1.计算机组成原理上：自己动手编写CPU/1.2 数据的机器级表示.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.计算机组成原理上：自己动手编写CPU/1.1 计算机系统概述.md"
+                "file": "1.计算机组成原理上：自己动手编写CPU/1.2 数据的机器级表示.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "c1bc889fac1e20f5",
   "lastOpenFiles": [
+    "1.计算机组成原理上：自己动手编写CPU/1.1 计算机系统概述.md",
     "1.计算机组成原理上：自己动手编写CPU/1.0 组成原理内容简介.md",
     "1.计算机组成原理上：自己动手编写CPU/1.2 数据的机器级表示.md",
-    "1.计算机组成原理上：自己动手编写CPU/1.1 计算机系统概述.md",
     "欢迎.md",
     "1.计算机组成原理上：自己动手编写CPU"
   ]
