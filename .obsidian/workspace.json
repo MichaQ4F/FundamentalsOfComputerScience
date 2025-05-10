@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "96791fed491e61d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "abd8278f769ece1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1bc889fac1e20f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.计算机组成原理上：自己动手编写CPU/1.1 计算机系统概述.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fde4330cefdeb48f",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcc85ed462f6d6a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e82d20ff5af953a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e4c2e42c7f05f0c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11f728f7ca39106d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b58b2181f134b239",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9119754128752c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48722e99f814f8da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1.计算机组成原理上：自己动手编写CPU/1.1 计算机系统概述.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e3d05d98769d7447",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1.计算机组成原理上：自己动手编写CPU/1.1 计算机系统概述.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a7308ba743814899",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f4f3b4ff7779baff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1.计算机组成原理上：自己动手编写CPU/1.1 计算机系统概述.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c1bc889fac1e20f5",
+  "lastOpenFiles": [
+    "1.计算机组成原理上：自己动手编写CPU/1.0 组成原理内容简介.md",
+    "1.计算机组成原理上：自己动手编写CPU/1.1 计算机系统概述.md",
+    "欢迎.md",
+    "1.计算机组成原理上：自己动手编写CPU"
+  ]
+}
